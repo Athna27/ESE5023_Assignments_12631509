@@ -19,3 +19,5 @@ def Pascal_triangle(k):
     return row
 #需要输出调用函数后的结果，一开始只是print（row）,输出结果是之前有问题的代码定义的全局变量，不会受k值影响
 print(Pascal_triangle(k))
+
+#k=100和k=200可直接在input处输入得到
